@@ -74,7 +74,7 @@ namespace DesafioFundamentos.Models
             {
                 Console.WriteLine("Os veículos estacionados são:");
                 
-                // Implementado!!!
+                // Implementado!!! Desafio concluido!
                 foreach (var veiculo in veiculos)
                 {
                     Console.WriteLine($"- {veiculo}");
